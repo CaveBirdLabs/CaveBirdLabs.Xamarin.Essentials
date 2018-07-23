@@ -10,6 +10,7 @@
 		<Title>CaveBirdLabs Xamarin Essentials</Title>
 		<Description>Extensions for the Xamarin.Essentials package</Description>
 		<PackageIconUrl>https://github.com/CaveBirdLabs/CaveBirdLabs.Xamarin.Essentials/raw/master/icon.png</PackageIconUrl>
+		<PackageVersion>1.0.1</PackageVersion>
 	</PropertyGroup>
 
 	<ItemGroup>

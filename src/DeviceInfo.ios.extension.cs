@@ -1,7 +1,7 @@
 ﻿// ReSharper disable once CheckNamespace
 namespace Xamarin.Essentials
 {
-	public static class DeviceInfoExentions
+	public static class DeviceInfoExtensions
 	{
 		public static string ToPrettyModel(this string hardwareIdentifier)
 		{
