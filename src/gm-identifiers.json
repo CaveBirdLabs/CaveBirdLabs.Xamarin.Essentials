@@ -1,0 +1,11 @@
+{
+    "genyman": {
+        "packageId": "CaveBirdLabs.Genyman.IOSDeviceIdentifiers",
+        "version": "",
+        "nugetSource": "",
+        "info": "This is a Genyman configuration file - https://genyman.github.io/docs/"
+    },
+    "configuration": {
+        "namespace": "Xamarin.Essentials"
+    }
+}

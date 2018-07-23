@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
+		<PackOnBuild>true</PackOnBuild>
+		<PackageId>CaveBirdLabs.Xamarin.Essentials</PackageId>
+		<Authors>CaveBirdLabs</Authors>
+		<Owners>CaveBirdLabs</Owners>
+		<PackageProjectUrl>https://github.com/CaveBirdLabs/CaveBirdLabs.Xamarin.Essentials</PackageProjectUrl>
+		<Title>CaveBirdLabs Xamarin Essentials</Title>
+		<Description>Extensions for the Xamarin.Essentials package</Description>
+		<PackageIconUrl>https://github.com/CaveBirdLabs/CaveBirdLabs.Xamarin.Essentials/raw/master/icon.png</PackageIconUrl>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="NuGet.Build.Packaging" Version="0.2.0" />
+	</ItemGroup>
+</Project>
